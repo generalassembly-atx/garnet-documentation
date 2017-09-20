@@ -18,20 +18,19 @@
 This is a quick start guide for the WDI team looking to get set up with Garnet.
 Begin by navigating to the Garnet webpage: https://garnet.wdidc.org
 
-### Signing in
+### Signing Up
 The first step in getting set up with Garnet is to sign in. Currently, all sign ins are done via Github. Begin by clicking the  **"Sign in with Github""** button:
 
 ![Sign In With Github](https://content.screencast.com/users/ddunn91/folders/Jing/media/c058d18c-7209-4bb8-a4c2-449e9609e209/00000037.png)
 
 **Important**
-
-Make sure that all students, instructors, and teaching assistants sign up for garnet. If you forget to have students sign up for garnet, you will not be able to create a class on garnet.
+Before creating a Cohort on Garnet, make sure that all students, instructors, and teaching assistants have created an account with their github account.
 
 ### Starting a new cohort
 There is currently no button that will take you to the page to start a new cohort, so you will need to navigate your browser to this URL for now:
 
-**Start a new cohort**
-https://garnet.wdidc.org/cohorts/new
+**[Start a new cohort](https://garnet.wdidc.org/cohorts/new)**
+
 
 Once you arrive, you should see a page that looks like this:
 ![Add new cohort page](https://content.screencast.com/users/ddunn91/folders/Jing/media/80649836-eafa-43b1-b16a-1c41b2c24cc5/00000038.png)
@@ -42,8 +41,7 @@ Once you arrive, you should see a page that looks like this:
 2. **Location:** This will be the location of the GA organization you work for.
 3. **Course:** This will be the program you teach for (Web Development Immersive = WDI).
 4. **CoreID & Duration in weeks:** leave these blank.
-**Important Information Below**
-5.** Day of week:** The day **before** your cohort starts, so if the first day is monday, set it to Sunday. This may change, if it does, please update this documentation.
+5. **Day of week:** The day **before** your cohort starts, so if the first day is monday, set it to Sunday. This may change, if it does, please update this documentation.
 6. **Start Date:** The day **before** your cohort starts, so if the first day is Febuary 27th, 2017, set it to Febuary 26th, 2017. Again, this may change, if it does, please update this documentation.
 
 **Once all the above has been filled out, go ahead and click on create cohort.**
